@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csdeveloperkc
-- 👀 I’m interested in ... Game and App development
+- 👀 I’m interested in ... Mobile Game and Mobile App development
 - 🌱 I’m currently learning ... Learning and trying to perfect my skills on Flutter/Dart and Unity/C#
 - 📫 How to reach me ... visit my personal site, kevincoleman.in  or email me csdeveloperkc@gmail.com
 
